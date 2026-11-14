@@ -1,9 +1,9 @@
 {
   "url": "https://maynoe.com/",
   "links": [
-    { "title": "ရုပ်ရှင်", "url": "https://maynoe.com/movie" },
-    { "title": "သီချင်း", "url": "https://maynoe.com/music" },
-    { "title": "သတင်း", "url": "https://maynoe.com/news" },
-    { "title": "အားကစား", "url": "https://maynoe.com/sport" }
+    { "title": "နိုင်ငံခြားအောကားများ", "url": "https://maynoe.com/category/other/" },
+    { "title": "ဂျပန်အောကားများ", "url": "https://javmyanmar.com/" },
+    { "title": "မင်းသမီးများ", "url": "https://javmyanmar.com/actress-list/" },
+    { "title": "ရုရှားအောကားများ", "url": "https://mgzaw.com/category/english/" }
   ]
 }

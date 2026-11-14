@@ -1,20 +1,6 @@
 [
-  {
-    "title": "Maynoe",
-    "title_my": "မေနိုး",
-    "url": "https://www.maynoe.com",
-    "icon": "🌐"
-  },
-  {
-    "title": "Facebook",
-    "title_my": "ဖေ့စ်ဘွတ်",
-    "url": "https://www.facebook.com",
-    "icon": "📘"
-  },
-  {
-    "title": "YouTube",
-    "title_my": "ယူကျူ့",
-    "url": "https://www.youtube.com",
-    "icon": "▶️"
-  }
+  { "title_my": "ဖေ့စ်ဘွတ်", "title_en": "Facebook", "url": "https://www.facebook.com", "icon": "📘" },
+  { "title_my": "ယူကျူ့", "title_en": "YouTube", "url": "https://www.youtube.com", "icon": "▶️" },
+  { "title_my": "တစ်‌တော့", "title_en": "TikTok", "url": "https://www.tiktok.com", "icon": "🎵" },
+  { "title_my": "မေနိုး", "title_en": "Maynoe", "url": "https://www.maynoe.com", "icon": "🌐" }
 ]
